@@ -1,5 +1,5 @@
        working-storage section.
-       copy employee-record.cpy
+       copy employee-record.
        01  selected-employee           employee-record.
        01  employees                   employee-record occurs 50
                                              indexed by employee-number.
